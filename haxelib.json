@@ -1,0 +1,20 @@
+{
+  "name": "hxgrig.audio",
+  "url" : "https://github.com/BRODING-DEV/hxgrig.audio",
+  "license": "MIT",
+  "tags": [
+    "audio",
+    "samples",
+    "effects"
+  ],
+  "description": "Cross-target abstractions for supporting audio ports (Haxe) and working with buffers of audio data.",
+  "classPath": "src",
+  "contributors": [
+    "BRODING-DEV"
+  ],
+  "releasenote": "Added realtime audio checker",
+  "version": "0.0.5",
+  "dependencies": {
+    "tink_core": "1.26.0"
+  }
+}
